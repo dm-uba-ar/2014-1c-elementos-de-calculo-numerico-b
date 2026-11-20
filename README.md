@@ -1,4 +1,4 @@
-# Elementos de Cálculo Numérico (Biología) — Primer cuatrimestre de 2014
+# Elementos de Cálculo Numérico B — Primer cuatrimestre de 2014
 
 ## Prácticas
 
@@ -11,13 +11,6 @@
 - [Práctica 7 - Diagonalización](ECNB_1c14_prac7.pdf)
 - [Práctica 8 - Matrices estocásticas y Procesos de Markov](ECNB_1c14_prac8.pdf)
 - [Práctica 9 - Aproximación por cuadrados mínimos](ECNB_1c14_prac9.pdf)
-
-## Bibliografía
-
-- \[1\] Burgos, J., Algebra Lineal . Mc Graw-Hill .
-- \[2\] Lipschutz, M., Algebra Lineal . Serie Schaum. Mc Graw-Hill.
-- \[3\] Strang, Gilbert, Linear Algebra and its applications. Academic Press Inc
-- \[4\] Grossman, Stanley, Algebra Lineal . Mc.Graw-Hill
 
 ## Página original
 
